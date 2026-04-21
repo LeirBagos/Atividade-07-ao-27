@@ -1,0 +1,7 @@
+numero = int(input("Digite um número: "))
+
+if numero >= 10 and numero <= 20:
+    print("O número está entre 10 e 20")
+    
+else:
+    print("O número está entre 11 e 21")
